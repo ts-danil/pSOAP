@@ -3,7 +3,11 @@
 ## Цель работы:
 Собрать информацию о параметрах сетевой инфраструктуры 5 компаний на выбор из списка S&P500
 Выбранные компании:
-
+1. Vulcan Materials Company
+2. Xylem Inc.
+3. CarMax Inc.
+4. DaVita Inc.
+5. Ralph Lauren Corporation
 Собираемые данные:
 1. Домен
 2. IP
