@@ -53,7 +53,12 @@
 3. Формирование отчета по выполнению лабораторной работы.  
 ## Содержание лабораторной работы:  
 ### Vulcan Materials Company  
+| Домен |    |  
+|-------|----|
 ### Xylem Inc.  
+
 ### CarMax Inc.  
+
 ### DaVita Inc.  
+
 ### Ralph Lauren Corporation  
