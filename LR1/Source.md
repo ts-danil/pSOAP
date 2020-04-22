@@ -55,6 +55,8 @@
 ### Vulcan Materials Company  
 | Домен |    |  
 |-------|----|
+| IP |    |
+-------------
 ### Xylem Inc.  
 
 ### CarMax Inc.  
