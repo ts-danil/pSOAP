@@ -57,7 +57,7 @@
 3. Формирование отчета по выполнению лабораторной работы.  
 ## Содержание лабораторной работы:  
 -------------
-### Vulcan Materials Company  
+### 1. Vulcan Materials Company  
 | Характеристика                       | Значение |  
 |:------------------------------------:|:--------:|
 | IP                                   |    |  
@@ -69,10 +69,10 @@
 | Открытые порты                       |    |  
 | Используемые web-технологии на сайте |    |  
 
-### Xylem Inc.  
+### 2. Xylem Inc.  
 
-### CarMax Inc.  
+### 3. CarMax Inc.  
 
-### DaVita Inc.  
+### 4. DaVita Inc.  
 
-### Ralph Lauren Corporation  
+### 5. Ralph Lauren Corporation  
