@@ -34,10 +34,9 @@
 + VMware Workstation Pro
 + Nmap
 + Nslookup
-+ Wappalyzer what  
++ Wappalyzer  
 ### Используемые интернет-ресурсы: 
 + Shodan
-+ Censys
 + 2ip
 + Whois
 + Whatweb
@@ -112,7 +111,23 @@
 | Телефон                              | +1.2127058200|  
 | Хостинг (при наличии)                | 74.113.65.21|  
 | Открытые порты                       | 80, 443|  
-| Используемые web-технологии на сайте | tcp, http|  
+| Используемые web-технологии на сайте | Электронная коммерция  
+                                         Salesforce Commerce Cloud
+Аналитика
+SiteCatalyst
+Google Analytics
+Шрифт
+Font Awesome
+Прочее
+Swiper Slider
+CDN
+CloudFlare
+Менеджер тэгов
+Adobe DTM
+Google Tag Manager
+JavaScript Libraries
+jQuery3.4.1
+jQuery UI1.12.1|  
 ## Оценка результата:  
 --------
 
