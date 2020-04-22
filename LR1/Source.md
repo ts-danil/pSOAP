@@ -28,11 +28,11 @@
 + Windows 10 x64
 + Ubuntu 18.04  
 ### Используемое ПО:  
-+ Google Chrome
++ Google Chrome 81.0.4044.122  
 + VMware Workstation Pro
-+ nmap
-+ nslookup
-+ wappalyzer what  
++ Nmap
++ Nslookup
++ Wappalyzer what  
 ### Используемые интернет-ресурсы: 
 + Shodan
 + Censys
