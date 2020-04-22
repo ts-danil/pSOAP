@@ -38,5 +38,6 @@
 + Censys
 + 2ip
 + Whois
++ Whatweb
 
 ## Варианты решения задачи:  
