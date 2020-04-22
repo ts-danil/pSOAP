@@ -7,7 +7,7 @@
 2. Xylem Inc.
 3. CarMax Inc.
 4. DaVita Inc.
-5. Ralph Lauren Corporation
+5. Ralph Lauren Corporation  
 Собираемые данные:
 1. Домен
 2. IP
