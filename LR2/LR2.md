@@ -72,8 +72,8 @@ system("tracert 8.8.8.8", intern = TRUE)
 | 17 |    *     |   *     |   *    | *     | Превышен интервал ожидания для запроса. |                               |               |
 | 18 |    *     |   *     |   *    | *     | Превышен интервал ожидания для запроса. |                               |               |
 | 19 |    *     |   *     |   *    | *     | Превышен интервал ожидания для запроса. |                               |               |
-| 20 |   17 ms  |  16 ms  |  17 ms | *     | dns.google [8.8.8.8]                    | Level 3 Parent, LLC (LPL-141) | Monroe        |
-
+| 20 |   17 ms  |  16 ms  |  17 ms | *     | dns.google [8.8.8.8]                    | Level 3 Parent, LLC (LPL-141) | Monroe        |  
+Наибольшую временную задержку при передаче пакета вносит узел на 10 строке - организация Google LLC (GOGL) с адресом 172.253.51.243 
 
 ### 2. Cloudflare DNS
 Данный провайдер DNS имеет адрес 1.1.1.1  
@@ -97,7 +97,8 @@ system("tracert 1.1.1.1", intern = TRUE)
 |  5  |   4 ms  |   3 ms  |   3 ms | 3 ms  | 80.64.108.154               | CJSC Rascom                    | St.Petersburg |
 |  6  |   3 ms  |   3 ms  |   3 ms | 3 ms  | 80.64.96.244                | CJSC Rascom                    | St.Petersburg |
 |  7  |   5 ms  |   6 ms  |  16 ms | 9 ms  | 172.68.8.252                | Cloudflare, Inc.               | San Francisco |
-|  8  |   8 ms  |   3 ms  |   3 ms | 5 ms  | 1.1.1.1                     | APNIC Research and Development | South Brisbane|
+|  8  |   8 ms  |   3 ms  |   3 ms | 5 ms  | 1.1.1.1                     | APNIC Research and Development | South Brisbane|  
+Наибольшую временную задержку при передаче пакета вносят узлы на 3 и 7 строках - организация DISKOM с адресом 180.253.16.29 и организация Cloudflare, Inc. с адресом 172.68.8.252
 
 ### 3. OpenDNS
 Данный провайдер DNS имеет адрес 208.67.222.222  
@@ -122,7 +123,8 @@ system("tracert 208.67.222.222", intern = TRUE)
 |  6  |  35 ms  |  30 ms  |  34 ms | 33 ms | 77.67.90.96                 | Tinet International Network         | Neu-Isenburg  |
 |  7  |  51 ms  |  59 ms  |  54 ms | 55 ms | 213.200.117.202             | GTT                                 | Neu-Isenburg  |
 |  8  |  52 ms  |  54 ms  |  58 ms | 55 ms | 77.67.66.70                 | Tiscali International Network B.V.  | Neu-Isenburg  |
-|  9  |  49 ms  |  53 ms  |  49 ms | 50 ms | 208.67.222.222              | OPENDNS-NET-1                       | San Francisco |
+|  9  |  49 ms  |  53 ms  |  49 ms | 50 ms | 208.67.222.222              | OPENDNS-NET-1                       | San Francisco |  
+Наибольшую временную задержку при передаче пакета вносят узлы на 7 и 8 строках - организация GTT с адресом 213.200.117.202  и организация iscali International Network B.V. с адресом 77.67.66.70   
 
 ### 4. DNS провайдера
 Данный провайдер DNS имеет адрес 	195.98.160.26  
@@ -145,6 +147,7 @@ system("tracert 195.98.160.26", intern = TRUE)
 |  4  |  10 ms  |   2 ms  |   2 ms | 5 ms  | 172.31.251.224              | Internet Assigned Numbers Authority (IANA) | Los Angeles   |
 |  5  |   3 ms  |   1 ms  |   2 ms | 2 ms  | 80.253.16.113               | NACIONALNOE-BYURO-KREDITNIH-ISTORIY        | Moscow        |
 |  6  |   2 ms  |   1 ms  |   1 ms | 1 ms  | 195.98.160.26               | 2COM Co ltd.                               | Moscow        |
+Наибольшую временную задержку при передаче пакета вносит мой роутер с адресом 192.168.0.1 :(
 
 ## Оценка результата:  
 
